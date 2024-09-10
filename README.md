@@ -1,4 +1,7 @@
 
+
+---
+
 Tic-Tac-Toe Game
 
 A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript for single-player mode, where the player competes against the computer.
@@ -59,9 +62,7 @@ git clone https://github.com/Narendran1424/Tic-Tac-Toe
 
 Demo
 
-
-
-> https://github.com/Narendran1424/Tic-Tac-Toe/blob/main/screenshot.png
+https://narendran1424.github.io/Tic-Tac-Toe/
 
 
 
@@ -74,5 +75,9 @@ Improve AI to offer various difficulty levels.
 
 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the https://github.com/Narendran1424/Tic-Tac-Toe/blob/main/LICENSE file for details.
 
+
+---
+
+Once you've uploaded your demo image (e.g., screenshot.png) to the root of your repository or a specific folder, ensure the link in the Demo section points to the correct path.
